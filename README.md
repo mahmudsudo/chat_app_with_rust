@@ -1,1 +1,1 @@
-# chat_app_with_rust
+# cryptographic modules implemented in rust
